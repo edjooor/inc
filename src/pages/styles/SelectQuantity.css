@@ -1,0 +1,81 @@
+.more {
+    border-radius: 10px;
+    accent-color: #BF8CDE;
+    flood-color: red;
+    /* background-color: blue ; */
+    border-radius: 10px;
+    border: 1px solid #BF8CDE;
+}
+
+.less {
+    border-radius: 10px;
+    background: yellow;
+}
+
+.chooseSlider {
+    display: flex;
+    flex-direction: row;
+    width: 304px;
+    height: 38px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #BF8CDE;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.choosenAmount {
+    color: #FFF;
+    text-align: center;
+    font-family: Fact;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    /* 125% */
+}
+
+.chooseBar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #FFF;
+    font-family: Fact;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px;
+    /* 312.5% */
+}
+.AmountSelector {
+    width: 980px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 45px;
+}
+
+.mintButton {
+    width: 116px;
+    height: 38px;
+    display: flex;
+    border: 0;
+
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #BF8CDE 0%, #9A43D0 100%);
+
+    color: #FFF;
+    text-align: center;
+    font-family: Fact;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    cursor: pointer;
+    /* 312.5% */
+}

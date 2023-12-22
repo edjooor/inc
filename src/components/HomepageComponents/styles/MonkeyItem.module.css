@@ -1,0 +1,22 @@
+.monkeyItem{
+    width: 184px;
+    
+    
+    background-color: #663684;
+    border-radius: 10px;
+   
+    
+    box-sizing: border-box;
+    height: 202px;
+}
+
+.monkeyItemImg{
+    background-repeat: no-repeat;
+    background-image: url(../../assets/monkeys/monkey1.png);
+    width: 176px;
+height: 167px;
+flex-shrink: 0;
+    box-sizing: border-box;
+    margin-left: 4px;
+    margin-top: 4px;
+}

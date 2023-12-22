@@ -1,0 +1,11 @@
+.MonkeyMintList{
+    display: flex;
+   
+    width: 980px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+    
+}

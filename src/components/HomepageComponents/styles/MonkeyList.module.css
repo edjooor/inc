@@ -1,0 +1,9 @@
+.monkeyList{
+    display: flex;
+    height: 421px;
+    width: 988px;
+    margin-top: 101px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}

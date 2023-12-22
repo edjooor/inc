@@ -1,0 +1,95 @@
+.Button1 {
+    border-radius: 10px;
+    background: linear-gradient(180deg, #663684 0%, #9A43D0 100%);
+    color: #FFF;
+    border: 0;
+    text-align: center;
+    font-family: Fact;
+    font-size: 42px;
+    font-style: normal;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    line-height: 86px;
+    text-decoration: none;
+    cursor: pointer;
+    /* 119.048% */
+}
+
+.Button1:hover {
+
+    background: linear-gradient(180deg, #C973FF 0%, #9A43D0 100%);
+}
+
+.BottomMain {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 84px;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+
+    /* background: url(../../assets/background/BacklightDown.png) bottom/ 100% 200px;
+
+
+    background-repeat: no-repeat; */
+
+
+    width: 100%;
+
+}
+
+.TgChat {
+    margin-top: 31px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+    flex-direction: row;
+
+    border-radius: 10px;
+    background: #1C032B;
+    width: 412px;
+    height: 86px;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: right;
+    font-family: Fact;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+
+
+    border: 1px solid #BF8CDE;
+    /* 312.5% */
+}
+
+.Contacts {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    color: #FFF;
+    text-align: center;
+    font-family: Fact;
+    font-size: 32px;
+    font-style: normal;
+
+    font-weight: 700;
+    line-height: 50px;
+    /* 156.25% */
+    flex-direction: column;
+}
+
+.LowerContacts {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 14px;
+
+
+
+}

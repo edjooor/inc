@@ -1,0 +1,30 @@
+.title {
+    color: #FFF;
+    text-align: center;
+    font-family: Fact;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    height: 50px;
+    width: 940px;
+    padding-left: 40px;
+
+
+
+    /* 156.25% */
+}
+.MainTitle{
+    margin-top: 55px;
+    display: flex;
+    flex-direction: row;
+    width: 980px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.LangSelector{
+   width: 40px
+}

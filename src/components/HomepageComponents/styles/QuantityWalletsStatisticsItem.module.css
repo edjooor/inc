@@ -1,0 +1,22 @@
+.QuanWalItem {
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 126px;
+    margin-bottom: 16px;
+    height: 50px;
+    font-family: Fact;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    /* 87.5% */
+}
+.stripe{
+    margin-top: 8px;
+    margin-bottom: 7px;
+    width: 15px;
+    color: #fff;
+}

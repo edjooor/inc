@@ -1,0 +1,22 @@
+.homenetList{
+    display: flex;
+    width: 980px;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 23px;
+}
+.textHomeNetList{
+    color: #FFF;
+text-align: center;
+font-family: Fact;
+font-size: 28px;
+font-style: normal;
+font-weight: 500;
+line-height: 50px; /* 178.571% */
+}
+.generalHomeNetList{
+
+    padding-top: 31px;
+    display: flex;
+    flex-direction: column;
+}

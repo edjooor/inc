@@ -1,0 +1,22 @@
+.buttonCheck {
+    margin-top: 10px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #663684 0%, #9A43D0 100%);
+    width: 270px;
+    height: 50px;
+    flex-shrink: 0;
+    border: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Fact;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    /* 312.5% */
+}
+
+.buttonCheck:hover {
+    border-radius: 10px;
+    background: linear-gradient(180deg, #C973FF 0%, #9A43D0 100%);
+}

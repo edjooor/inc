@@ -1,0 +1,139 @@
+.monkeyMintItem {
+    width: 184px;
+
+
+    background-color: #663684;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 17px;
+    border: 1px solid #663684;
+    ;
+    box-sizing: border-box;
+    padding-top: 7px;
+    padding-left: 6.5px;
+    padding-right: 6.5px;
+    height: 254px;
+}
+
+.monkeyMintItemSelected {
+    width: 184px;
+
+
+    background: transparent;
+    border-radius: 10px;
+
+    border: 1px solid #BF8CDE;
+    display: flex;
+    flex-direction: column;
+    margin-top: 17px;
+
+    box-sizing: border-box;
+    padding-top: 7px;
+    padding-left: 6.5px;
+    padding-right: 6.5px;
+    height: 254px;
+}
+
+
+.monkeyMintItemImg {
+    background-repeat: no-repeat;
+    background-image: url(../../assets/monkeys/monkey_5.png);
+    width: 176px;
+    height: 167px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 13px;
+
+}
+
+.monkeyName {
+    color: #FFF;
+    font-family: Fact;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    height: 34px;
+    display: flex;
+    align-items: center;
+
+
+
+    /* 312.5% */
+}
+
+.price {
+    color: #BF8CDE;
+    font-family: Fact;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.eth {
+    font-family: Fact;
+    font-size: 16px;
+    font-weight: 200;
+    font-style: normal;
+    color: #FFFFFF;
+
+
+    text-align: left;
+
+}
+
+.MonkeyNftMintPrice {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 3px;
+    align-items: center;
+}
+
+.MintButton {
+    background: linear-gradient(180deg, #BF8CDE 0%, #9A43D0 100%);
+    width: 65px;
+    height: 34px;
+    flex-shrink: 0;
+    border: 0;
+    border-radius: 10px;
+
+    color: #FFF;
+    text-align: center;
+    font-family: Fact;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    /* 312.5% */
+}
+
+.SelectedNFT {
+    width: 152px;
+    height: 38px;
+    border-radius: 10px;
+    background: rgba(27, 2, 41, 0.80);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 26px;
+}
+
+.SelectedText {
+    color: #FFF;
+    text-align: center;
+    font-family: Fact;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin-left: 7px;
+    /* 125% */
+}

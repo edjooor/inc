@@ -1,0 +1,22 @@
+.homenetItem {
+    width: 153px;
+    height: 72px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #BF8CDE 0%, #9A43D0 100%);
+    color: #000;
+    text-align: center;
+    font-family: Fact;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    /* 162.5% */
+    text-decoration: none;
+    text-align: center;
+    box-sizing: border-box;
+    display: flex;
+    padding-top: 9px;
+    
+    flex-direction: column;
+
+}
